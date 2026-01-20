@@ -107,3 +107,6 @@
 ✔️ არ არსებობს დუბლირებული ID-ები
 
 ✔️ README.md ფაილში დამატებულია ნამუშევრის სქრინშოთი
+
+preview: assets/preview.png
+link: [text](https://zazabaramidze3-afk.github.io/pseudoclasses/)
